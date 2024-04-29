@@ -285,7 +285,7 @@
       <!-- Add more content inside divs for other slides -->
     </div>
     <button class="start-button" @click="startSlideshow" v-if="!timer">
-      Tap to Start
+      أنقر للبدء
     </button>
   </div>
   <!-- musicbutton -->
@@ -444,7 +444,7 @@ export default {
       // Access the element with the class "swipe"
       const swipeElement = document.querySelector(".drag");
       // Set its inner HTML to the value of the message property
-      swipeElement.innerHTML = "← Swipe →";
+      swipeElement.innerHTML = "← إسحب →";
       // Add a style to change the color
       swipeElement.style.color = "white"; // Change "red" to the color you desire
       this.audio.play();
