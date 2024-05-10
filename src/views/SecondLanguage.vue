@@ -379,7 +379,7 @@ export default {
           title: "Gift Registry",
           subTitle:
             "Your presence, your laughter, and your love are the most precious gifts ever. If you wish to share a gift with us,a Wedding List is available at WHISH Money account",
-          accountNumber: "76188327",
+          accountNumber: "20252622",
         },
       },
     };
